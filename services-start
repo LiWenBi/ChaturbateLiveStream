@@ -1,0 +1,2 @@
+#!/bin/sh
+/koolshare/bin/ks-services-start.sh
